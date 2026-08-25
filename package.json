@@ -1,0 +1,10 @@
+{
+  "name": "feishu-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "飞书群机器人：群 @ / 私信 → 公司模型 + 只读 MCP 工具 → 回复。运行时零依赖。",
+  "scripts": {
+    "test": "bash run-tests.sh"
+  }
+}
